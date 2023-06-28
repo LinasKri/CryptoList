@@ -26,7 +26,7 @@ In terminal (from project root folder):
 npm run dev
 ```
 
-# Voilà !!!
+#### Voilà !!!
 
 ### Compile and Minify for Production
 
