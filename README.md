@@ -8,7 +8,7 @@ npm install
 
 ### Start node server
 
-Find 'config.js' in 'my-server' folder and replace XXXXs with your API key.
+Find 'config.js' in 'my-server' folder and replace XXXXs with your API key from https://coinmarketcap.com/api/.
 
 Then in terminal (from project root folder):
 
